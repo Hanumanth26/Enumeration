@@ -1,5 +1,7 @@
 # Enumeration
 Enumeration Techniques
+# Name: hanumanth rao
+# Date: 23:08:2024
 
 # Explore Google hacking and enumeration 
 
